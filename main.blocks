@@ -1,0 +1,11 @@
+<xml xmlns="https://developers.google.com/blockly/xml"><variables><variable id="([QxS8Muk%L4GFn@Er+$">isOn</variable><variable id="a3GpRNMx,3i:JAFO@GL?">debugMode</variable><variable id="J2dsV#Ll:n1oJkRN?yjb">setupMode</variable><variable id="V=,5^=$BSH@ZWy*G,O2[">receiver</variable><variable id="H-VRxxF}_MV9$h|!S!@[">channal</variable><variable id="au#m$c+Mn-:b5N:f.kU*">alarm</variable><variable id="ES*sC`b#dJ;m0ypLeRp:">pinState</variable><variable id="!/=2D-;ku;};]TnWgeJa">debounce</variable></variables><comment id="z2;Ls2StlTtAP-jzTxT1" data="5" x="2528" y="2002" h="120" w="480">For making sure it only the sends same singal once</comment><comment id="KW=W-$O72znNSJSWmX(!" data="4" x="3053" y="2002" h="120" w="220">If an alarm is running</comment><comment id="s:[Y]hQ7joNXxk]{t5D%" data="3" x="3318" y="2002" h="120" w="340">Alows you to skip messeges if true</comment><comment id="e#J=zF|:8Hek.*JX8iFA" data="2" x="3703" y="2002" h="120" w="480">If this is reseving signals (true) or sending them (false)</comment><comment id=",FW%RGr_8WzHog,a`0if" data="1" x="20" y="2879" h="120" w="250">The current radio channal</comment><comment id="5Xg-0~/voWjeN5bDHGpp" data="0" x="315" y="2879" h="360" w="460">The stage that the program is currentlly input
+
+---------------------------------------
+| Number | **Description**            |
+|:------:|----------------------------|
+|   0    | Placeholder                |
+|   1    | Radio Channal setup        |
+|   2    | Channal Setup              |
+|   3    | Setup Complete Placeholder |
+|   4    | Normal Usage               |
+---------------------------------------</comment></xml>
